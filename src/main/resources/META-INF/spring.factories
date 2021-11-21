@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.max.web.aop.GlobalExceptionHandler,com.max.web.aop.GlobalJsonResponse,com.max.web.aop.RequestParamValidateAspect
